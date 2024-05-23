@@ -7,3 +7,4 @@ Nome dos Integrantes:
 
 
   Observação: O exercicio 3 a expressão esta incorreta e dentro do código há uma explicação e a demonstração de uma expressão correta.
+  E a implementação da letra J e K esta dentro da class LinkedBinaryTree
